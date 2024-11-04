@@ -37,4 +37,8 @@ Food normally consits several kinds of macronutriens at once. In the table we pr
 
 # Images 
 
-![avocado]()
+![avocado](https://github.com/nstprtko/Food_and_Drinks/blob/5dc9f71ffaed8b3ca0c8d1f9c15dc631ab192a8c/images/thought-catalog-9aOswReDKPo-unsplash.jpg?raw=true)
+
+![food](https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=2138&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+![food1](https://images.unsplash.com/photo-1463740839922-2d3b7e426a56?q=80&w=2150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
