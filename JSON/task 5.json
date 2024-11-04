@@ -1,0 +1,44 @@
+[
+    {
+        "brand": "Coca-Cola",
+        "founded": 1886,
+        "annual sales(in billions)": 46.754,
+        "variants": ["Diet Coke", "Coca-Cola Zero", "Coca-Cola Citra"],
+        "serving size(ml)": 320
+    },
+    {
+        "brand": "Pepsi",
+        "founded": 1893,
+        "annual sales(in billions)": 91.471,
+        "variants": ["Diet Pepsi", "Pepsi Zero", "Pepsi Vanilla"],
+        "serving size(ml)": 320
+    },
+    {
+        "brand": "Lay's",
+        "founded": 1932 ,
+        "annual sales(in millions)": 513.45,
+        "variants": ["Lay's Paprika", "Lay's Barbecue", "Lay's Hot Chicken Wings"],
+        "serving size(g)": 30
+    },
+    {
+        "brand": "Pringles",
+        "founded": 1968,
+        "annual sales(in billions)": 3.5,
+        "variants": ["Pringles Barbecue", "Pringles Cheese", "Pringles Chilli"],
+        "serving size(ml)": 320
+    },
+    {
+        "brand": "Heineken",
+        "founded": 1873,
+        "annual sales(in billions)": 36.4,
+        "variants": ["Heineken", "Heineken 0.0"],
+        "serving size(ml)": 330
+    },
+    {
+        "brand": "Red Bull",
+        "founded": 1987,
+        "annual sales(in billions)": 9.684,
+        "variants": ["Red Bull", "Red Bull SugarFree", "Red Bull Zero"],
+        "serving size(ml)": 250
+    }
+]
